@@ -1,0 +1,12 @@
+C:\Users\YABADCAM\Desktop\ClasesGenericas\ClasesGenericas\bin\Debug\ClasesGenericas.exe.config
+C:\Users\YABADCAM\Desktop\ClasesGenericas\ClasesGenericas\bin\Debug\ClasesGenericas.exe
+C:\Users\YABADCAM\Desktop\ClasesGenericas\ClasesGenericas\bin\Debug\ClasesGenericas.pdb
+C:\Users\YABADCAM\Desktop\ClasesGenericas\ClasesGenericas\obj\Debug\ClasesGenericas.csprojResolveAssemblyReference.cache
+C:\Users\YABADCAM\Desktop\ClasesGenericas\ClasesGenericas\obj\Debug\ClasesGenericas.exe
+C:\Users\YABADCAM\Desktop\ClasesGenericas\ClasesGenericas\obj\Debug\ClasesGenericas.pdb
+C:\Users\YABADCAM\Desktop\POST EVERIS\Chapter\ClasesGenericas\ClasesGenericas\bin\Debug\ClasesGenericas.exe.config
+C:\Users\YABADCAM\Desktop\POST EVERIS\Chapter\ClasesGenericas\ClasesGenericas\obj\Debug\ClasesGenericas.exe
+C:\Users\YABADCAM\Desktop\POST EVERIS\Chapter\ClasesGenericas\ClasesGenericas\obj\Debug\ClasesGenericas.pdb
+C:\Users\YABADCAM\Desktop\POST EVERIS\Chapter\ClasesGenericas\ClasesGenericas\bin\Debug\ClasesGenericas.exe
+C:\Users\YABADCAM\Desktop\POST EVERIS\Chapter\ClasesGenericas\ClasesGenericas\bin\Debug\ClasesGenericas.pdb
+C:\Users\YABADCAM\Desktop\POST EVERIS\Chapter\ClasesGenericas\ClasesGenericas\obj\Debug\ClasesGenericas.csprojResolveAssemblyReference.cache
